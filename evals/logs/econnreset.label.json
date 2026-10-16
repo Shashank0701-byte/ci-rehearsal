@@ -1,0 +1,6 @@
+{
+  "id": "econnreset",
+  "class": "FLAKY",
+  "root_cause": "Socket reset while downloading a dependency",
+  "source": "hand-labeled"
+}

@@ -1,0 +1,2 @@
+npm ERR! network request to https://registry.npmjs.org/left-pad failed, reason: socket hang up
+npm ERR! network ECONNRESET

@@ -1,0 +1,6 @@
+{
+  "id": "marked-flaky",
+  "class": "FLAKY",
+  "root_cause": "Test runner retried a flaky test and still failed",
+  "source": "hand-labeled"
+}

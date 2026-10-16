@@ -1,0 +1,14 @@
+{
+  "id": "windows-shell",
+  "class": "ENV_MISMATCH",
+  "root_cause": "Workflow runs on Ubuntu and the rehearsal ran on Windows",
+  "source": "hand-labeled",
+  "env_diff": [
+    {
+      "kind": "os",
+      "expected": "ubuntu-latest",
+      "actual": "Windows",
+      "detail": "CI runs on linux, local machine is windows"
+    }
+  ]
+}

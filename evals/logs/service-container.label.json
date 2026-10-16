@@ -1,0 +1,7 @@
+{
+  "id": "service-container",
+  "class": "UNVERIFIABLE_LOCALLY",
+  "root_cause": "Job expects a service container this runner does not start",
+  "source": "hand-labeled",
+  "skip_reason": "service containers cannot be verified locally"
+}

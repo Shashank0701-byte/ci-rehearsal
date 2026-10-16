@@ -1,0 +1,3 @@
+tests/test_app.py:12: SyntaxError: invalid syntax
+  def broken(
+E   SyntaxError: invalid syntax

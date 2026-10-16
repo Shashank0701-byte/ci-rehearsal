@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+rehearsal-plan.json
+results.json
+triage.json

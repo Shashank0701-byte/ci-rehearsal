@@ -1,0 +1,6 @@
+{
+  "id": "syntax-error",
+  "class": "CODE_BUG",
+  "root_cause": "Python syntax error in the tested file",
+  "source": "hand-labeled"
+}

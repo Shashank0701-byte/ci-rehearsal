@@ -1,0 +1,1 @@
+pytest-rerunfailures: test_race failed then was marked flaky after 2 reruns

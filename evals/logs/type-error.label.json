@@ -1,0 +1,6 @@
+{
+  "id": "type-error",
+  "class": "CODE_BUG",
+  "root_cause": "NoneType has no attribute in application code",
+  "source": "hand-labeled"
+}

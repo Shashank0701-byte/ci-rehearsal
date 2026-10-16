@@ -1,0 +1,6 @@
+{
+  "id": "missing-script",
+  "class": "CODE_BUG",
+  "root_cause": "package.json has no test script",
+  "source": "hand-labeled"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "tsc",
+  "class": "CODE_BUG",
+  "root_cause": "TypeScript type error",
+  "source": "hand-labeled"
+}

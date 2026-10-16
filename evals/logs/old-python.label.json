@@ -1,0 +1,14 @@
+{
+  "id": "old-python",
+  "class": "ENV_MISMATCH",
+  "root_cause": "Workflow pins Python 3.11 and the machine has 3.9",
+  "source": "hand-labeled",
+  "env_diff": [
+    {
+      "kind": "python_version",
+      "expected": "3.11",
+      "actual": "3.9.18",
+      "detail": "python version differs"
+    }
+  ]
+}

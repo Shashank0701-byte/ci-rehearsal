@@ -1,0 +1,2 @@
+TypeError: 'NoneType' object has no attribute 'id'
+  File "app/models.py", line 40, in save

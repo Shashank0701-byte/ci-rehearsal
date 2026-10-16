@@ -1,0 +1,7 @@
+{
+  "id": "missing-token",
+  "class": "UNVERIFIABLE_LOCALLY",
+  "root_cause": "Action requires a token secret",
+  "source": "hand-labeled",
+  "skip_reason": "secrets cannot be verified locally"
+}

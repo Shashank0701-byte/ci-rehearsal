@@ -1,0 +1,6 @@
+{
+  "id": "etimedout",
+  "class": "FLAKY",
+  "root_cause": "Registry connection timed out",
+  "source": "hand-labeled"
+}

@@ -1,0 +1,1 @@
+error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020' or higher.

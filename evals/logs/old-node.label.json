@@ -1,0 +1,14 @@
+{
+  "id": "old-node",
+  "class": "ENV_MISMATCH",
+  "root_cause": "Workflow pins Node 20 and the machine has Node 18",
+  "source": "hand-labeled",
+  "env_diff": [
+    {
+      "kind": "node_version",
+      "expected": "20",
+      "actual": "v18.20.0",
+      "detail": "node major differs"
+    }
+  ]
+}

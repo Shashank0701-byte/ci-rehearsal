@@ -1,0 +1,14 @@
+{
+  "id": "missing-lock",
+  "class": "ENV_MISMATCH",
+  "root_cause": "npm ci requires package-lock.json and it is absent",
+  "source": "hand-labeled",
+  "env_diff": [
+    {
+      "kind": "lockfile",
+      "expected": "package-lock.json",
+      "actual": "missing",
+      "detail": "npm ci requires package-lock.json"
+    }
+  ]
+}

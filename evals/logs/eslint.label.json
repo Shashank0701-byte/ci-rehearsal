@@ -1,0 +1,6 @@
+{
+  "id": "eslint",
+  "class": "CODE_BUG",
+  "root_cause": "ESLint reports an unused variable",
+  "source": "hand-labeled"
+}

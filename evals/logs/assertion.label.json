@@ -1,0 +1,6 @@
+{
+  "id": "assertion",
+  "class": "CODE_BUG",
+  "root_cause": "Unit assertion expected 1 and got 2",
+  "source": "hand-labeled"
+}
